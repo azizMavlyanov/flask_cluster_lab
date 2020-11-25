@@ -1,4 +1,4 @@
-# Docker with database, clustering (Visit counter with MongoDB database)
+# Docker with database, clustering (Visit counter app with MongoDB database)
 
 ## Author
 
