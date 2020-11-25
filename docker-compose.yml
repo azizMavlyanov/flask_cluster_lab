@@ -9,8 +9,8 @@ services:
       - MONGO_INITDB_DATABASE=cluster_db
       - MONGO_INITDB_ROOT_USERNAME=root
       - MONGO_INITDB_ROOT_PASSWORD=pass
-    # volumes:
-    #   - "./data:/data/db"
+    volumes:
+      - "./data:/data/db"
   web:
     build: .
     deploy:
