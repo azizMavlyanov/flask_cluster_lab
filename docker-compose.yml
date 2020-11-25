@@ -17,4 +17,4 @@ services:
       mode: replicated
       replicas: 2
     ports:
-      - "8000:8000"
+      - "8080:8080"
