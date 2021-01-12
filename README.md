@@ -1,4 +1,4 @@
-# Docker with database, clustering (Visit counter app with MongoDB database)
+# Задание 4. Использование Docker с БД, кластеризация
 
 ## Author
 
@@ -10,7 +10,7 @@ Python, Flask, PyMongo, MongoDB, Docker
 
 ## Installation and usage of the project
 
-**Please make sure that you have docker installed on your PC (Notebook)**
+**Please make sure that you have docker and docker-compose installed on your PC (Notebook)**
 
 1\) Run containers from the root of the project:
 
